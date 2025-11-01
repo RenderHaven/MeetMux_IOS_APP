@@ -1,16 +1,30 @@
 # meetmux_app
 
-A new Flutter project.
+A new IOS APP.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a assiament of meetmux
 
-A few resources to get you started if this is your first Flutter project:
+A modern, interactive Flutter application for discovering and exploring anime content using the Jikan API. Discover your next favorite anime with beautiful interfaces and powerful search capabilities.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Description:
+The goal is to develop a live iOS app that enables users to search, view, and interact with
+anime-related content fetched from the Jikan API. The app should emphasize clean UI/UX,
+real-time updates, and smooth navigation across different views.
+Users should be able to:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Search for anime titles using keywords.
+2. View detailed information about selected anime — including title, synopsis, rating,
+   episodes, and genres.
+3. Explore popular, upcoming, and top-rated anime lists through categorized tabs or
+   sections.
+4. Add anime to a “Favorites” or “Watchlist” section, stored locally on the device.
+5. (Bonus) Display character details or related anime using additional endpoints from the
+   API.
+
+## Ouptput
+
+![Home Page](assets/Out.png)
+![Responsiv](assets/1.png)
+![Anime Info](assets/2.png)
